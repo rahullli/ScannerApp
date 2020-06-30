@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidDocumentScanner.iml" filepath="$PROJECT_DIR$/.idea/AndroidDocumentScanner.iml" group="AndroidDocumentScanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="AndroidDocumentScanner/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/documentscanner/documentscanner.iml" filepath="$PROJECT_DIR$/.idea/modules/documentscanner/documentscanner.iml" group="AndroidDocumentScanner/documentscanner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary/openCVLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary/openCVLibrary.iml" group="AndroidDocumentScanner/openCVLibrary" />
+    </modules>
+  </component>
+</project>
